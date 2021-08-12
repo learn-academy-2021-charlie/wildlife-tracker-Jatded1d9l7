@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+Story: As the consumer of the API I can destroy an animal sighting in the database.
